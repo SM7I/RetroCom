@@ -14,10 +14,9 @@ The client part is available for the following retro computers at the moment (mo
 
 As for now there are some limitations in functionality due to technical reasons being solved while this is written, Upload and Download of data to / from server does not work, but will resolved as quickly as possible.
 
-**Quick guide of keys:
+**Quick guide of keys:**
 
 W = connect to Wifi SSID (syntax: SSID, password)
-
 S = connect to server (syntax: IP or hostname:2323 (of course you can also connect to IRC servers, in that case port needs to be 6667))
 
 F = List server side files
