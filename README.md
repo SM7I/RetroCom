@@ -1,9 +1,9 @@
-# QLwifi
-QLwifi information and the Client / Server software suite for ZX Spectrum &amp; Sinclair QL.
+# RetroCom
+RetroCom information and the Client / Server software suite for ZX Spectrum &amp; Sinclair QL, Sinclair ZX81 and Commodore 128.
 
 **Consider this as a pre-release as of now**
 
-QLwifi is an hardware interface, which I build, that allows retro computers access to the Internet by the means of WiFi to your local network. The interface takes AT commands according to the manual of Zimodem, however I've modified the firmware and added own commands, such as AT+PING.
+RetroCom is an hardware interface, which I build, that allows retro computers access to the Internet by the means of WiFi to your local network. The interface takes AT commands according to the manual of Zimodem, however I've modified the firmware and added own commands, such as AT+PING.
 
 Even though this is a functional way to communicate with services on the Internet I decided to develop a software suite for the interface. The software suite is written in portable C thus allowing the same source code for different platforms.
 
