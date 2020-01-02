@@ -1,5 +1,5 @@
 # RetroCom
-RetroCom information and the Client / Server software suite for ZX Spectrum &amp; Sinclair QL, Sinclair ZX81 and Commodore 128.
+RetroCom information and the Client / Server software suite for ZX Spectrum, Sinclair QL, Sinclair ZX81 & Commodore 128.
 
 **Consider this as a pre-release as of now**
 
