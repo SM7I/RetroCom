@@ -1,6 +1,6 @@
 # RetroCom for ZXpand+ Super Serial card
 
-ZX81 and ZX80 computers can also utilize the wonders of Internet if equipped with ZXpand+ interface by Charlie Robson (sirmorris).
+ZX81 computers can also utilize the wonders of Internet if equipped with ZXpand+ interface by Charlie Robson (sirmorris).
 By connecting the Super Serial card, which can be purchased by me, Internet is in reach. Simply connect the Super Serial card to your ZXpand+ using a 10 pin IDC cable.
 
 For the wifi to work you´ll have to update the firmware of your ZXpand+. Latest firmware can be found here: https://github.com/charlierobson/ZXpand-Vitamins#zxpand-vitamins 
