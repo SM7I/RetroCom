@@ -10,4 +10,4 @@ The Super Serial card has the following features:
 * 5 pin DIN MIDI connector
 * Joystick port
 
-RetroCom client software is being developed as of now, but a terminal software is finished and can be downloaded. The ESP-01 module firmware is a fork of Zimodem CoCo version into which I have implemented some features of my own, AT+PING for example. AT commands are obeyed by the module.
+RetroCom client software is being developed as of now, but a terminal software is finished and can be downloaded. The ESP-01 module firmware is a fork of Zimodem CoCo version into which I have implemented some features of my own, AT+PING for example. Standard AT commands are obeyed by the module.
