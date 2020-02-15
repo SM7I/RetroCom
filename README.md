@@ -1,6 +1,15 @@
 # RetroCom
 RetroCom information and the Client / Server software suite for ZX Spectrum, Sinclair QL, Sinclair ZX81 & Commodore 128.
 
+Timeframe for release on different platforms:
+* ZX Spectrum - Done
+* Sinclair QL - Q1 20
+* ZX81 - Q1 20
+* Commodore 128 - Q1 20
+* Amiga - TBD
+* Commodore 64 - TBD
+* Atari ST - TBD
+
 **Consider this as a pre-release as of now**
 
 RetroCom is an hardware interface, which I build, that allows retro computers access to the Internet by the means of WiFi to your local network. The interface takes AT commands according to the manual of Zimodem, however I've modified the firmware and added own commands, such as AT+PING.
