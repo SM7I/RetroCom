@@ -27,7 +27,7 @@ As for now there are some limitations in functionality due to technical reasons 
 
 **Quick guide of keys:**
 
-W = connect to Wifi SSID (syntax: SSID, password) (Please note that SSIDs are CaSe-sensitive)
+W = connect to Wifi SSID (syntax: SSID, password (Please note that SSIDs are CaSe-sensitive))
 
 S = connect to server (syntax: IP or hostname:2323 (of course you can also connect to IRC servers, in that case port needs to be 6667))
 
