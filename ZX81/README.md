@@ -10,6 +10,6 @@ The Super Serial card has the following features:
 * 5 pin DIN MIDI connector
 * Joystick port
 
-RetroCom client software is being developed as of now, but a terminal software is finished and can be downloaded. The ESP-01 module firmware is a fork of Zimodem CoCo version into which I have implemented some features of my own, AT+PING for example. Standard AT commands are obeyed by the module. To enter certain AT commands you´ll need the ampersand (&) character. It´s not a part of ZX81 character set, but can be substituted by escape sequence **\x26**
+RetroCom client software is being developed as of now, but a terminal software is finished and can be downloaded. The ESP-01 module firmware is a fork of Zimodem CoCo version into which I have implemented some features of my own, AT+PING for example. Standard AT commands are obeyed by the module, but unfortunately the ZX81 does not have the ampersand (&) character so certain AT commands will not be possible to enter.
 
 **Please note**: SSIDs are CaSe-sensitive. You can toggle CAPS mode on ZX81 by pressing GRAPHICS and then 9.
