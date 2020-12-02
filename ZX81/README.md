@@ -14,6 +14,6 @@ RetroCom client software is being developed as of now, but a terminal software i
 
 **Please note**: SSIDs are CaSe-sensitive. You can toggle CAPS mode on ZX81 by pressing GRAPHICS and then 9.
 
-The other file in the repo, player2.p, is a MIDI file player which works very fine with the MIDI jack on the Super Serial Card connected to f.ex. Roland SC-55 which is a Sound Canvas MIDI sound module.
+The other file in the repo, player2.p, is a MIDI file player which works very fine with the MIDI jack on the Super Serial Card connected to f.ex. Roland SC-55 which is a Sound Canvas MIDI sound module. This way your ZX81 will act as a MIDI sequencer.
 
 Syntax: RUN midifile   ***Where midifile is your file to play. Don´t type in the .ZXM extension. Player will do this itself***
