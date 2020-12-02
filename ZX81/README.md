@@ -13,3 +13,6 @@ The Super Serial card has the following features:
 RetroCom client software is being developed as of now, but a terminal software is finished and can be downloaded. The ESP-01 module firmware is a fork of Zimodem CoCo version into which I have implemented some features of my own, AT+PING for example. Standard AT commands are obeyed by the module, but unfortunately the ZX81 does not have the ampersand (&) character so certain AT commands will not be possible to enter.
 
 **Please note**: SSIDs are CaSe-sensitive. You can toggle CAPS mode on ZX81 by pressing GRAPHICS and then 9.
+
+The other file in the repo, player2.p, is a MIDI file player which works very fine with the MIDI jack on the Super Serial Card connected to f.ex. Roland SC-55 which is a Sound Canvas MIDI sound module.
+Syntax: RUN <midifile>   ***Don´t type in the .ZXM extension. Player will do this itself***
