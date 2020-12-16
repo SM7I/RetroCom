@@ -3,7 +3,7 @@ RetroCom information and the Client / Server software suite for ZX Spectrum, Sin
 
 Timeframe for release on different platforms:
 * ZX Spectrum - Done
-* Sinclair QL - Q4 20
+* Sinclair QL - Q2 21
 * ZX81 - in progress
 * Commodore 128 - in progress
 * Amiga - TBD
