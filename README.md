@@ -8,7 +8,7 @@ Timeframe for release on different platforms:
 * Commodore 128 - in progress
 * Amiga - TBD
 * Commodore 64 - TBD
-* Atari ST - TBD
+* Atari ST - ¨¨TBD¨¨ Will not be done
 
 **Consider this as a pre-release as of now**
 
