@@ -2,7 +2,7 @@
 RetroCom information and the Client / Server software suite for ZX Spectrum, Sinclair QL, Sinclair ZX81, Amiga & Commodore 128.
 
 Timeframe for release on different platforms:
-* ZX Spectrum - Done
+* ZX Spectrum - Done (version 1)
 * Sinclair QL - Q1 23
 * ZX81 - in progress
 * Commodore 128 - in progress
