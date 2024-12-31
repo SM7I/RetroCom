@@ -12,6 +12,7 @@ Timeframe for release on different platforms
 | Amiga | TBD |
 | Commodore 64 | TBD |
 | Atari ST | TBD |
+| SVI Xpress 738 | TBD |
 
 **Consider this as a pre-release as of now**
 
