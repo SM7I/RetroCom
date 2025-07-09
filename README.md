@@ -6,7 +6,7 @@ Timeframe for release on different platforms
 | Platform  | Time estimation | Version |
 | ------------- | ------------- | ------------- |
 | ZX Spectrum | Done | 1.0 |
-| Sinclair QL | Q3 - 25 |
+| Sinclair QL | Q4 - 25 |
 | ZX81 | In progress |
 | Commodore 128 | In progress |
 | Amiga | TBD |
